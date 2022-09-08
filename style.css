@@ -1,12 +1,12 @@
 :root {
-	--wheatonBlue: #1174B8;
-	--wheatonTeal: #02857E;
-	--wheatonYellow: #FFCB4E;
+	--wheatonBlue: #d9910d;
+	--wheatonTeal: #02850b;
+	--wheatonYellow: #FFFFFF;
 	--pageBackground: #4a4743;
-	--wheatonTeal: #02857E;
+	--wheatonTeal: #02850b;
 	--heroBackgroundColor: #444444;
 	--heroTextColor:  #FFFFFF;
-	--textColor:  #333333;
+	--textColor:  #F6F5F4;
 }
 
 html {
